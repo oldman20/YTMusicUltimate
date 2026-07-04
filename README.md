@@ -1,6 +1,6 @@
-https://github.com/cwsteini/YTMusicUltimate
+https://github.com/Mine-Fork-Project/YTMusicUltimatePlus
 
-https://github.com/Tonwalter888/YTMusicUltimatePlus
+https://github.com/cwsteini/YTMusicUltimate
 
 https://github.com/maxrave-dev/SimpMusic
 
