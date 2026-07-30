@@ -1,7 +1,5 @@
 https://github.com/Mine-Fork-Project/YTMusicUltimatePlus
 
-https://github.com/cwsteini/YTMusicUltimate
-
 https://github.com/maxrave-dev/SimpMusic
 
 https://github.com/956tris/MetroFuse
